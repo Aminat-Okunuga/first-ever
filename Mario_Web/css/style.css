@@ -1,0 +1,223 @@
+     @import url('font-awesome/css/font-awesome.min.css');
+
+ ul,li,a{
+ 	margin: 0;
+ 	padding: 0;
+ }    
+body{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+	color: #8c8a8a;
+}
+.main{
+	padding: 0px;
+	margin: 0px;
+}
+.navbar-header a{
+	color: #ffffff;
+}
+ul li a{
+	color: #ffffff;
+}
+
+/*marrio style*/
+#bg_image{
+	background-image: url(../images/three3.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin-bottom: -40px;
+}
+.text{
+	color: #ffffff;
+	padding: 40px;
+}
+.text h1{
+	font-size: 50px;
+}
+.text h5{
+	font-size: 15px;
+	margin-top: 40px;
+	margin-bottom: 5px;
+}
+.getstart{
+	margin-top: 0px;
+	margin-left: auto;
+	padding-right: 500px;
+	padding-left: 500px;
+	padding-bottom: 70px;
+}
+#border-radius{
+	border-radius: 200px;
+}
+#background{
+	background-color: grey;
+	opacity: .7;
+	height: 40px;
+}
+.mario{
+	float: left;
+}
+.list{
+	display: inline-block;
+	float: right;
+}
+#pad{
+	padding-right: 90px;
+	padding-left: 90px;
+	margin-top: 40px; 
+	background-color: #151515;
+}
+.web{
+	padding: 40px;
+	margin-top: 60px;
+	padding-bottom:  50px; 
+}
+.container #pad{
+	margin-top: 0px;
+}
+.web h4{
+	color: #ffffff;
+}
+.row .web p{
+	font-size: 14px;
+}
+.background{
+	background-color: #000000;
+}
+#picture{
+	padding: 100px;
+	background-color: #f5f5f1;
+}
+.media-left img{
+	width: 400px;
+}
+.media-right img{
+	width: 700px;
+	margin-bottom: 100px;
+}
+.media-body h4{
+	font-size: 45px;
+	margin-top: 50px;
+}
+.wesolve{
+	padding: 80px;
+}
+.wesolve h4{
+	color: #272424;
+}
+#wesolve{
+	padding: 5px;
+	margin-top: 150px;
+}
+.recent{
+	text-align: center;
+	padding-left: 80px;
+	padding-right: 80px;
+	margin-top: 20px;
+}
+.recent p{
+	font-size: 12px;
+	padding-right: 50px;
+	padding-left: 50px;
+	margin-top: 20px;
+	color: grey;
+}
+.recent h2{
+	color: #000000;
+}
+.picture{
+	padding-top: 0px;
+	padding: 100px;
+	background-color: #f5f5f1;
+}
+.card img{
+	width: 100%;
+}
+.bg_white{
+	background-color: #ffffff;
+	margin-top: -8px;
+	padding: 20px;
+}
+.bg_white h4{
+	font-size: 11px;
+	color: grey;
+}
+.row p{
+	font-size: 11px;
+}
+.frame{
+	margin-top: 90px;
+}
+.logos{
+	padding-left: 70px;
+	padding-right: 50px;
+	padding-top: 20px;
+	padding-bottom: 30px;
+}
+.background_img{
+	background-image: url(../images/headset_blue.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	opacity: .9;
+}
+.background_img h1{
+	text-transform: capitalize;
+	color: #ffffff;
+	font-size: 30px;
+	padding: 40px;
+}
+.background_img a{
+	margin-top: 60px;
+	border-radius: 50px;
+	width: 50%;
+	padding: 10px;
+	margin-left: 70px;
+	border: 2px solid #ffffff;
+}
+#footer{
+	background-color: #151515;
+	padding: 50px;
+}
+#footer h3{
+	color: #ffffff;
+	font-size: 12px;
+	line-height: 1.5;
+}
+#footer h4{
+	color: #ffffff;
+	font-size: 30px;
+	margin-bottom: 20px;
+}
+#footer p{
+	font-size: 12px;
+	line-height: 1.5;
+}
+#footer ul li{
+	display: block;
+	list-style-type: none;
+}
+#footer ul li a{
+	text-decoration: none;
+}
+#width img{
+	width: 70px;
+	height: 50px;
+}
+.media-body p{
+		font-size: 12px;
+		margin-left: 10px;
+}
+#foot{
+	background-color: #000000;
+	padding: 20px;
+}
+.margin{
+	margin-left: 25px;
+}
+#margin{
+	margin-top: -380px;
+	margin-left: 60px;
+}
+#margin h5{
+	color: #272424;;
+}
