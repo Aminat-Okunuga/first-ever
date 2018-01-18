@@ -1,0 +1,156 @@
+     @import url('font-awesome/css/font-awesome.min.css');
+body{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+}
+.main{
+	padding: 0px;
+	margin: 0px;
+}
+.jumbo{
+	background-color: #22b184;
+	text-align: center;
+	padding: 30px;
+	color: #ffffff;
+}
+.background{
+	background-color:  #1a1a33e6;
+	color: #ffffff;
+}
+.navbar-header a{
+	color: #ffffff;
+}
+ul li a{
+	color: #ffffff;
+}
+.about{
+	background-color: #22b184;
+	margin-top: 100px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding: 30px;
+	color: #ffffff;
+}
+.multiple_column{
+	column-count: 2;
+	column-gap: 20px;
+	padding-left: 250px;
+	padding-right: 250px;
+	/*background-color: #4cedbacc;*/
+	color: #ffffff;
+}
+.download{
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 450px;
+	padding-right: 450px;
+	color: #ffffff;
+}
+#width{
+	width: 100%;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-left: auto;
+	margin-right: auto;
+	color: #ffffff;
+}
+.pad{
+	padding-left: 300px;
+	padding-right: 300px;
+}
+.contact{
+	margin-top: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: #ffffff;
+}
+.portfolio{
+	margin-top: 70px;
+	margin-bottom: 50px;
+}
+#portfolio{
+	margin-top: 50px;
+	margin-bottom: 80px;
+}
+#pad{
+	padding-left: 250px;
+	padding-right: 250px;
+}
+.contact h1{
+	font-size: 18px;
+
+}
+#margin{
+	margin-top: 10px;
+	font-size: 15px;
+}
+.location{
+	background-color: #1a1a33e6;
+	color: #ffffff;
+	font-size: 18px;
+	margin-top: 50px;
+}
+.footer{
+	background-color: #283447;
+	padding-left: 300px;
+	padding-right: 300px;
+}
+.copyright{
+	width: 50%;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	color: #ffffff;
+}
+.color{
+	background-color: #22b184;
+	border: 1.5px solid #ffffff;
+	width: 150px;
+	border-radius: 5px;
+	margin-top: 10px;
+}
+.color a{
+	color: #ffffff;
+}
+/*.fa {
+   font-size: 15px;
+   width: 20px;
+   text-align: center;
+   text-decoration: none;
+   border-radius: 100%;
+}
+/* Add a hover effect if you want */
+/*.fa:hover {
+   opacity: 0.7;
+}
+*/
+	
+
+	/* Facebook */
+/*.fa-facebook {
+	background: #3B5998;
+ 	color: blue;
+	}*/
+
+	/* Twitter */
+/*.fa-twitter {
+	background: #55ACEE;
+	color: blue;
+	}
+.fa-linkedin {
+	background: #55ACEE;
+	color: blue;
+	}*/
+.social-icons{
+	display: inline-block;
+	border-radius:50%;
+	padding: 3px 7px;
+	width: 30px;
+	height: 30px;
+	border: 2px solid #ffffff;
+}	
+/*.shrink{
+	padding-right: 400px;
+	padding-left: 400px;
+}*/
